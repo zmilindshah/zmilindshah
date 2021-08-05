@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**zmilindshah/zmilindshah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Golang
 - 🌱 I’m currently learning about AWS
 - 💈 I'm building my photography 📷 📸 portfolio on Unsplash & Pexels
@@ -16,4 +11,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about 🍱, 🇯🇵, 🗼, 🗻, ⛩, Tokyo, Japan, Travel, Flights, Aviation, Jeju, Fiji, Bali, Hong Kong, Singapore, Dubai, London, Istanbul, New Zealand
 - 📫 How to reach me: Check about.me/computingfreak
 - ⚡ Fun fact: 🗾 Japanese maps put Japan at the centre of the world 🗺
--->
